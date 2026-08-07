@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+a3env/
+
+# Jupyter Notebook checkpoints (if you used them)
+.ipynb_checkpoints/
+
+# Gradio default flag directory
+flagged/
